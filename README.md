@@ -1,2 +1,2 @@
 # ProjectLabProg
-Projeto da disciplina "Laboratório de Programação"
+"Programming Laboratory" course project

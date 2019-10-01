@@ -1,2 +1,2 @@
-# ProjectLabProg
+# ProjectProgLab
 "Programming Laboratory" course project
